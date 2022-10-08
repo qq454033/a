@@ -80,7 +80,7 @@ function clickCamera() {
 			mui.toast("读取拍照文件错误" + e.message);
 		});
 	})
-};
+}
 /*
 function clickGallery() {
 	plus.gallery.pick(function(e) {
